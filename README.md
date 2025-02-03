@@ -1,1 +1,1 @@
-# NETFLIX-GPT
+# Determining Air Quality Index
